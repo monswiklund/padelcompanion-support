@@ -7,7 +7,6 @@ How to request account deletion
 Send an email to:
 
 wiklundlabs@gmail.com
-(Replace with your support email used in Google Play Console.)
 
 Use the subject line: “Padel Companion – Account Deletion Request”
 
