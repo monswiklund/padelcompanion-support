@@ -6,7 +6,7 @@ Mailadress är insatt: wiklundlabs@gmail.com
 
 Padel Companion – Privacy Policy
 
-Last updated: [insert today’s date]
+Last updated: 25/11-2025
 
 Padel Companion (“the App”) is provided by Wiklund Labs (“we”, “us”).
 This Privacy Policy explains what data we collect, how we use it, and the choices you have.
