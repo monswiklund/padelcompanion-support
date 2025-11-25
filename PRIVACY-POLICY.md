@@ -1,9 +1,3 @@
-Här är den fullständiga Privacy Policy i perfekt engelska, anpassad för Google Play och redo att publiceras på GitHub Pages.
-
-Mailadress är insatt: wiklundlabs@gmail.com
-
-⸻
-
 Padel Companion – Privacy Policy
 
 Last updated: 25/11-2025
